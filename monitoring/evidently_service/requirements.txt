@@ -7,3 +7,4 @@ prometheus_client~=0.16.0
 pyyaml~=6.0
 pyarrow
 pymongo==3.11.0
+# Updated: 2025-12-27

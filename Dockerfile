@@ -23,3 +23,5 @@ EXPOSE 8090
 # Make sure we use proper conda environment when running the gunicorn server
 ENTRYPOINT [ "conda", "run", "--no-capture-output", "-n", "credit", "gunicorn", "--bind", "0.0.0.0:8090", "app_docker:server" ]
 
+
+# Updated: 2025-12-27
