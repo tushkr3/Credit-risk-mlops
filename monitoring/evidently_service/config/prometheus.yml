@@ -76,3 +76,4 @@ scrape_configs:
     scrape_interval: 10s
     static_configs:
       - targets: ['evidently_service:8877']
+# Last updated: 2025-12-27

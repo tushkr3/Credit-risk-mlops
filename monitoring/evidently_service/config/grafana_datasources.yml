@@ -13,3 +13,4 @@ datasources:
     type: prometheus
     access: proxy
     url: http://prometheus.:9090
+# Last updated: 2025-12-27

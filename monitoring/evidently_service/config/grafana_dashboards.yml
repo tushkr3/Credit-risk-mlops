@@ -22,3 +22,5 @@ providers:
       path: /opt/grafana/dashboards
       # <bool> use folder names from filesystem to create folders in Grafana
       foldersFromFilesStructure: true
+
+# Last updated: 2025-12-27
