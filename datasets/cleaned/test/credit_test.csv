@@ -199,3 +199,5 @@ no checking,36,critical/other existing credit,used car,5711,>=1000,>=7,4,male si
 >=200,42,no credits/all paid,business,6289,<100,<1,2,male div/sep,none,1,life insurance,33,none,own,2,skilled,1,none,yes,good
 0<=X<200,9,existing paid,radio/tv,458,<100,1<=X<4,4,male single,none,3,real estate,24,none,own,1,skilled,1,none,yes,good
 no checking,15,existing paid,radio/tv,1979,no known savings,>=7,4,male single,none,2,car,35,none,own,1,skilled,1,none,yes,good
+
+# Updated

@@ -799,3 +799,5 @@ no checking,18,existing paid,radio/tv,1473,<100,<1,3,male mar/wid,none,4,real es
 >=200,6,existing paid,furniture/equipment,2116,<100,1<=X<4,2,male single,none,2,real estate,41,none,own,1,skilled,1,yes,yes,good
 0<=X<200,27,critical/other existing credit,radio/tv,2520,500<=X<1000,1<=X<4,4,male single,none,2,life insurance,23,none,own,2,unskilled resident,1,none,yes,bad
 no checking,12,existing paid,radio/tv,1262,<100,1<=X<4,3,male single,none,2,car,25,none,own,1,skilled,1,none,yes,good
+
+# Updated
